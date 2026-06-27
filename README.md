@@ -1,7 +1,7 @@
 # Data-Analytics-Projects
 Data analytics projects using SQL and Tableau to analyze, clean, and visualize real-world datasets.
 
-# Customer Purchase Behavior Analysis
+# 1.Customer Purchase Behavior Analysis
 
 ##  Project Overview
 
@@ -61,7 +61,7 @@ Here’s a clean **GitHub/Portfolio README.md** you can use for this dashboard p
 
 ---
 
-#  SuperStore Business Analysis Dashboard
+#  2.SuperStore Business Analysis Dashboard
 
 A data analytics dashboard built using **Power BI** to analyze sales, profit, customer behavior, and category-wise performance of a retail SuperStore dataset. The dashboard helps identify business trends, profitable segments, low-performing categories, and customer purchasing patterns.
 
