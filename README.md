@@ -64,8 +64,6 @@ Here’s a clean **GitHub/Portfolio README.md** you can use for this dashboard p
 #  2.SuperStore Business Analysis Dashboard
 
 A data analytics dashboard built using **Power BI** to analyze sales, profit, customer behavior, and category-wise performance of a retail SuperStore dataset. The dashboard helps identify business trends, profitable segments, low-performing categories, and customer purchasing patterns.
-
-## <img width="679" height="383" alt="Screenshot 2026-06-28 043438" src="https://github.com/user-attachments/assets/782af6c5-a7d6-49e4-8f88-b157fd1edd48" />
 Project Overview
 
 This project focuses on performing **business intelligence analysis** on retail sales data to extract actionable insights related to:
